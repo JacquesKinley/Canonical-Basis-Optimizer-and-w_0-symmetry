@@ -18,7 +18,7 @@ $$
 A^{-1}PA=E.
 $$
 
-This allows the investigation of extremal invariant simplicial cones over $$w_0-$$symmetric bases of the Specht module.
+This allows the investigation of extremal invariant simplicial cones over $$w_0$$-symmetric bases of the Specht module.
 
 ## Requirements
 
