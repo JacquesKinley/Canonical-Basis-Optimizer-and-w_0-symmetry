@@ -36,7 +36,7 @@ expressing Young's seminormal basis vectors in Kazhdan–Lusztig coordinates.
 
 The implementation uses rational arithmetic, checks the generator-intertwining equations exactly, and measures the distance of the transition matrix from the identity.
 
-This provides an independent computational tool for comparing the two bases.
+This provides an independent computational tool for comparing the two bases in one base-change matrix.
 
 ## Requirements
 
