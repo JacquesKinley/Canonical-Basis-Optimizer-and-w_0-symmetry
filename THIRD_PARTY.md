@@ -22,7 +22,7 @@ $$
 
 where \(P\) represents the action of \(w_0\) in the polytabloid basis and \(E\) is the corresponding signed evacuation permutation matrix.
 
-The original optimization framework, including the last-letter ordering of standard Young tableaux, upper-unitriangular base-change matrices, and computation of extremal solutions \(A_{\min}\) and \(A_{\max}\), is due to Goertzen and Williamson.
+The original optimization framework, including the last-letter ordering of standard Young tableaux, upper-unitriangular base-change matrices, and computation of extremal solutions $$A_{\min}$$ and $$A_{\max}$$, is due to Goertzen and Williamson.
 
 ## Additional dependencies
 
