@@ -20,6 +20,24 @@ $$
 
 This allows the investigation of extremal invariant simplicial cones over $$w_0$$-symmetric bases of the Specht module.
 
+**3. Exact Young–Kazhdan–Lusztig Base-Change Computations**
+
+File: YoungSeminormalToKLBaseChange.sage
+
+Computes exact base-change matrices between the standard polytabloid basis, Young's monic seminormal basis, and the Kazhdan–Lusztig left-cell basis.
+
+In particular, it computes
+
+$$
+A_{\mathbb{KL}}^{-1}A_{\mathbb{Y}},
+$$
+
+expressing Young's seminormal basis vectors in Kazhdan–Lusztig coordinates.
+
+The implementation uses rational arithmetic, checks the generator-intertwining equations exactly, and measures the distance of the transition matrix from the identity.
+
+This provides an independent computational tool for comparing the two bases.
+
 ## Requirements
 
 - SageMath
