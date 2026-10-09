@@ -1,3 +1,14 @@
+# Based on the KL left-cell optimizer by Tom Goertzen.
+# Original repository:
+# https://github.com/TomGoertzen/canonical-basis-optimizer
+#
+# Associated publication:
+# T. Goertzen and G. Williamson,
+# Kazhdan-Lusztig Basis and Optimization (2026).
+#
+# Modified and extended for the present thesis project.
+# See THIRD_PARTY.md for attribution and licensing.
+
 import gurobipy as gp
 from gurobipy import GRB
 import numpy as np
