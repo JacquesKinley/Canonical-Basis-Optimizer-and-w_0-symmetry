@@ -14,12 +14,17 @@ The original repository is distributed under the MIT License. Its copyright and 
 
 ### Modifications
 
-The optimization implementation has been extended to incorporate:
+The optimization implementation of Goertzen and Williamson has been adapted to incorporate the additional longest-element intertwining constraint
 
-- Evacuation and longest-element intertwining constraints.
-- Last-letter ordering of standard Young tableaux.
-- Direct optimization over upper-unitriangular base-change matrices.
-- Computation of extremal solutions and corresponding transition matrices.
+\[
+A^{-1}PA=E,
+\]
+
+where \(P\) represents the action of the longest element \(w_0\) in the initial basis and \(E\) is the corresponding signed evacuation permutation matrix.
+
+The implementation also includes adjustments to maintain consistent last-letter ordering of standard Young tableaux and additional computational diagnostics.
+
+The original optimization framework, including upper-unitriangular base-change matrices, invariant-cone constraints, and the computation of extremal solutions, is due to Goertzen and Williamson.
 
 ## Additional dependencies
 
