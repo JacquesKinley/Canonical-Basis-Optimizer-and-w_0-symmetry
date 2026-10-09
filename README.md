@@ -8,8 +8,6 @@ The repository includes:
 
 - **Evacuation-adapted weak Bruhat graphs:** Construction and analysis of evacuation-adapted connected components of weak Bruhat graphs associated with standard Young tableaux.
 - **Canonical basis optimization:** Computation of the extremal base-change matrices \(A_{\min}\) and \(A_{\max}\), including evacuation intertwining constraints.
-- **Base-change matrices:** Computations involving Young's seminormal basis, the Kazhdan–Lusztig basis, and hybrid bases.
-- **Invariant cones:** Computational investigations of invariant simplicial cones in Specht modules.
 
 ## Requirements
 
