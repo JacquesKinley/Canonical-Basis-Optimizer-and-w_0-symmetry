@@ -22,9 +22,7 @@ This allows the investigation of extremal invariant simplicial cones over $$w_0$
 
 **3. Exact Young–Kazhdan–Lusztig Base-Change Computations**
 
-File: YoungSeminormalToKLBaseChange.sage
-
-Computes exact base-change matrices between the standard polytabloid basis, Young's monic seminormal basis, and the Kazhdan–Lusztig left-cell basis.
+(File: YoungSeminormalToKLBaseChange.sage) Computes exact base-change matrices between the standard polytabloid basis, Young's monic seminormal basis, and the Kazhdan–Lusztig left-cell basis.
 
 In particular, it computes
 
