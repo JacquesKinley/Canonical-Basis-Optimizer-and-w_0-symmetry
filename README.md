@@ -2,15 +2,15 @@
 
 This repository contains SageMath code developed as part of my thesis on \(w_0\)-symmetric bases of the Specht module.
 
-#Main Contributions
+## Main Contributions
 
-This repository contains two principal computational contributions developed for my thesis on (w_0)-symmetric bases of Specht modules.
+This repository contains two principal computational contributions developed for my thesis on \(w_0\)-symmetric bases of Specht modules.
 
-1. Evacuation-Adapted Weak Bruhat Graphs
+**1. Evacuation-Adapted Weak Bruhat Graphs**
 
-A SageMath implementation for constructing evacuation-adapted subgraphs of weak Bruhat graphs and determining their connected components for partitions (\lambda\vdash n).
+A SageMath implementation for constructing evacuation-adapted subgraphs of weak Bruhat graphs and determining their connected components for partitions \(\lambda\vdash n\).
 
-2. Evacuation-Constrained KL Left-Cell Optimization
+**2. Evacuation-Constrained KL Left-Cell Optimization**
 
 An extension of Goertzen and Williamson's canonical-basis optimization implementation, incorporating the additional longest-element intertwining constraint
 
@@ -18,7 +18,7 @@ $$
 A^{-1}PA=E.
 $$
 
-This allows the investigation of extremal invariant simplicial cones subject to a prescribed action of (w_0).
+This allows the investigation of extremal invariant simplicial cones subject to a prescribed action of \(w_0\).
 
 ## Requirements
 
