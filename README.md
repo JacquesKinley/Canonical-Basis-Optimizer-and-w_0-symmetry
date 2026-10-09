@@ -1,4 +1,4 @@
-# Canonical Basis Optimizer and \(w_0\)-Symmetry
+# Canonical Basis Optimizer and $$w_0$$-Symmetry
 
 This repository contains SageMath code developed as part of my thesis on $$w_0$$-symmetric bases of the Specht module.
 
