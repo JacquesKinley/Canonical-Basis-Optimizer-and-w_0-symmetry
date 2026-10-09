@@ -13,7 +13,7 @@ consisting of the edges
     {ev(T), ev(s_i(T))} is an edge labelled s_{n-i}.
 
 Consequently, isolated tableaux are NOT vertices of gamma^lambda.  They are
-recorded separately, since in the hybrid-basis construction they contribute
+recorded separately, since in the Y-KL hybrid-basis construction they contribute
 the identity block.
 
 Typical Sage use
