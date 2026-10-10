@@ -4,7 +4,7 @@ This repository contains SageMath code developed as part of my thesis on $$w_0$$
 
 ## Main Contributions
 
-This repository contains two principal computational contributions developed for my thesis on $$w_0$$-symmetric bases of Specht modules.
+This repository contains three principal computational contributions developed for my thesis on $$w_0$$-symmetric bases of Specht modules.
 
 **1. Evacuation-Adapted Weak Bruhat Graphs**
 
