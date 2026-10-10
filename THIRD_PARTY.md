@@ -27,3 +27,5 @@ The original optimization framework, including the last-letter ordering of stand
 ## Additional dependencies
 
 KL left-cell computations use Nguyen's `wgraph.c`. Its original source, attribution, and redistribution terms should be documented separately.
+
+The use of AI [ChatGPT 5.6 sol (Plus)] was implemented to carefully modify Tom Goertzen's code and was also used to find the Evacuation-adapted connected components of the weak Bruhat graph.
