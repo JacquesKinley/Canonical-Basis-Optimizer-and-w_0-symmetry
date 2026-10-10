@@ -6,7 +6,7 @@ This repository contains SageMath code developed as part of my thesis on $$w_0$$
 
 This repository contains three principal computational contributions developed for my thesis on $$w_0$$-symmetric bases of Specht modules.
 
-**1. Exact Young–Kazhdan–Lusztig Base-Change Computations**
+**1. Young–Kazhdan–Lusztig Base-Change Matrix Computations**
 
 (File: YoungSeminormalToKLBaseChange.sage) Computes exact base-change matrices between the standard polytabloid basis, Young's monic seminormal basis, and the Kazhdan–Lusztig left-cell basis.
 
