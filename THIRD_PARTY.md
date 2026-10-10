@@ -28,4 +28,4 @@ The original optimization framework, including the last-letter ordering of stand
 
 KL left-cell computations use Nguyen's `wgraph.c`. Its original source, attribution, and redistribution terms should be documented separately.
 
-The use of AI [ChatGPT 5.6 sol (Plus)] was implemented to find the Evacuation-adapted connected components of the weak Bruhat graph and the Y-KL base-Change matrices.
+The use of AI [ChatGPT 5.6 sol (Plus)] was implemented to help find the Evacuation-adapted connected components of the weak Bruhat graph, the Y-KL base-Change matrices and extend Goertzen's code to include the long-element intertwining constraint.
