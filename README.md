@@ -8,7 +8,7 @@ This repository contains two principal computational contributions developed for
 
 **1. Evacuation-Adapted Weak Bruhat Graphs**
 
-An edge $$T$$ -- $$s_i$$ -- $$T'$$ in $$\mathcal{B}^\lambda$$ is evacuation-adapted if $$ev(T)$$ -- $$s_{n-i}$$ -- $$ev(T')$$ is also an edge in $\mathcal{B}^\lambda$.
+Consider the weak Bruhat graph with nodes as standard Young tableaux. An labelled edge $$T$$ -- $$s_i$$ -- $$T'$$ in $$\mathcal{B}^\lambda$$ is evacuation-adapted if $$ev(T)$$ -- $$s_{n-i}$$ -- $$ev(T')$$ is also an edge in $\mathcal{B}^\lambda$.
 A SageMath implementation for constructing evacuation-adapted subgraphs of weak Bruhat graphs and determining their connected components for partitions $$\lambda\vdash n$$.
 
 **2. Evacuation-Constrained KL Left-Cell Optimization**
