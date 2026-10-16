@@ -26,6 +26,6 @@ The original optimization framework, including the last-letter ordering of stand
 
 ## Additional dependencies
 
-KL left-cell computations use Nguyen's `wgraph.c` (at the University of Sydney). This was also found in https://github.com/TomGoertzen/canonical-basis-optimizer.
+KL left-cell computations use Van Minh Nguyen's `wgraph.c`. This was also found in https://github.com/TomGoertzen/canonical-basis-optimizer.
 
 The use of AI [ChatGPT 5.6 sol (Plus)] was implemented to help find the Evacuation-adapted connected components of the weak Bruhat graph, the Y-KL base-Change matrices and extend Goertzen's code to include the long-element intertwining constraint.
